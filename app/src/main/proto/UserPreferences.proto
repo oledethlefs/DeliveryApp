@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "com.example.deliveryapp.core.datastore";
+option java_multiple_files = true;
+
+message UserPreferences {
+  repeated int32 products_in_shopping_cart = 1;
+
+  bool is_vegan = 2;
+  bool is_vegetarian = 3;
+  bool is_gluten_free = 4;
+  bool is_dairy_free = 5;
+  bool is_low_carb = 6;
+  bool is_organic = 7;
+  bool is_halal = 8;
+  bool is_pescetarian = 9;
+  bool is_gmo_free = 10;
+  int32 user_id = 11;
+
+  repeated int32 favorite_products_ids = 12;
+  repeated int32 bookmarked_recipe_ids = 13;
+
+  int32 service_fee = 14;
+
+}
