@@ -1,11 +1,11 @@
-# 📱 Delivery App (Android – Jetpack Compose)
+# Delivery App (Android – Jetpack Compose)
 
 Eine moderne Android-App zum Aufgeben von Lieferbestellungen.
 Das Projekt wurde vollständig mit **Kotlin** und **Jetpack Compose** entwickelt.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="/rezepte.png" width="250" style="margin: 10px;"/>
