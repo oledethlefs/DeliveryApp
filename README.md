@@ -12,7 +12,7 @@ Das Projekt wurde vollständig mit **Kotlin** und **Jetpack Compose** entwickelt
   <tr>
     <td colspan="2" align="center">
       <img src="/produkte_tablet.png" width="700" /><br/>
-      <em>Produkt-Screen für Tablets</em>
+      <em>Produkt-Screen (Tablet)</em>
     </td>
   </tr>
   <tr>
@@ -21,11 +21,11 @@ Das Projekt wurde vollständig mit **Kotlin** und **Jetpack Compose** entwickelt
   <tr>
     <td align="center">
       <img src="/rezepte.png" width="350" /><br/>
-      <em>Rezept-Screen für Smartphones</em>
+      <em>Rezept-Screen (Smartphone)</em>
     </td>
     <td align="center">
       <img src="/checkout.png" width="350" /><br/>
-      <em>Checkout-Screen für Smartphones</em>
+      <em>Checkout-Screen (Smartphone)</em>
     </td>
   </tr>
 </table>
