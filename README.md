@@ -7,23 +7,43 @@ Das Projekt wurde vollständig mit **Kotlin** und **Jetpack Compose** entwickelt
 
 ## Screenshots
 
-<p align="center">
-  <img src="/rezepte.png" width="250" style="margin: 10px;"/>
-  <img src="/produkte.png" width="250" style="margin: 10px;"/>
-  <img src="/checkout.png" width="250" style="margin: 10px;"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/produkte_tablet.png" width="700" /><br/>
+      <em>Produkt-Screen für Tablets</em>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="20"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="/rezepte.png" width="350" /><br/>
+      <em>Rezept-Screen für Smartphones</em>
+    </td>
+    <td align="center">
+      <img src="/checkout.png" width="350" /><br/>
+      <em>Checkout-Screen für Smartphones</em>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
 ## Features
 
-* 🍽️ **Rezepte**
-
-  Inspirieren lassen und Rezepte direkt in den Warenkorb legen, um alle Zutaten zu bestellen
 
 * 🛒 **Produkte**
 
   Produkte aus dem Sortiment auswählen und zum Warenkorb hinzufügen
+
+* 🍽️ **Rezepte**
+
+  Inspirieren lassen und Rezepte direkt in den Warenkorb legen, um alle Zutaten zu bestellen
 
 * 💳 **Warenkorb / Checkout**
 
